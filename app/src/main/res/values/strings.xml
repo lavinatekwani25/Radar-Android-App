@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sample  app</string>
+    <string name="radar_source">Radar Source</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="detection_count">Detection count: %1$d</string>
+    <string name="scan_line">Scan Line</string>
+    <string name="detected_objects">Deteced Objects</string>
+
+
+
+</resources>

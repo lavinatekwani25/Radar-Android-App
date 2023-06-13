@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadarChart">
+        <attr name="webLineWidth" format="float"/>
+        <attr name="webLineWidthInner" format="float"/>
+        <attr name="webAlpha" format="integer"/>
+        <attr name="webColor" format="color"/>
+        <attr name="webColorInner" format="color"/>
+        <attr name="drawWeb" format="boolean"/>
+        <attr name="highlightPerTapEnabled" format="boolean"/>
+        <attr name="highlightPerDragEnabled" format="boolean"/>
+        <attr name="dragDecelerationEnabled" format="boolean"/>
+        <attr name="dragDecelerationFriction" format="float"/>
+        <attr name="rotationEnabled" format="boolean"/>
+        <attr name="webFillColor" format="color"/>
+    </declare-styleable>
+</resources>
